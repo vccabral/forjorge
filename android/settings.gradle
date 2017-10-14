@@ -1,0 +1,3 @@
+rootProject.name = 'ReactFluid'
+
+include ':app'
